@@ -1,0 +1,37 @@
+.nav1
+{
+	background-color:#f2dede
+	border-radius:4px;
+	margin-top:-21px;
+}
+.abc
+{
+	background-color:#cdcdcb;
+	color:#000;
+	Padding:2;
+}
+.xyz
+{
+	background-color:#fbfbfb;
+	
+}
+#edu1{
+	Padding:30px;
+	box-shadow:2px 3px 10px 5px black;
+	background-color:#ee9793;
+} 
+#act1{#d9edf7
+	Padding:30px;
+	box-shadow:2px 6px 10px 7px black;
+	background-color:#d9edf7;
+   width:400px ;
+   height:200px;
+}
+.footerDiv{#d9edf7
+	Padding:30px;
+	box-shadow:2px 6px 10px 7px black;
+	background-color:black;
+      width: 100%;
+    height: 219px;
+	color:white;
+}
